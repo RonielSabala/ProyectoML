@@ -1,7 +1,21 @@
-# Proyecto ML
+# Proyecto "ML".
 
-Proyecto de Machine Learning de regresión para mi matería de Inteligencia Artificial.
+Proyecto de Machine Learning de regresión ejecutado sobre un dataset de seguros.
 
 - Integrantes del proyecto:
+
   - Roniel Antonio Sabala Germán mat. 20240212
   - Abel Eduardo Martínez Robles mat. 20240227
+
+_Modelos Usados_
+
+```
+- Ordinary Least Squares Regression
+- Ridge Regression
+- Bayesian Regression
+- Lasso Regression
+- Nearest Neighbors Regression
+- Random Forest Regression
+- SVM (Support Vector Machine) Regression
+- Neural Network MLP Regression
+```
