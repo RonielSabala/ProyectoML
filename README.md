@@ -1,13 +1,13 @@
 # Proyecto "ML".
 
-Proyecto de Machine Learning de regresión ejecutado sobre un dataset de seguros.
+Proyecto de Machine Learning de regresión sobre un dataset de costos médicos.
 
 - Integrantes del proyecto:
 
   - Roniel Antonio Sabala Germán mat. 20240212
   - Abel Eduardo Martínez Robles mat. 20240227
 
-_Modelos Usados_
+_Modelos Implementados_
 
 ```
 - Ordinary Least Squares Regression
